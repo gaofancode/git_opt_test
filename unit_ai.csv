@@ -1,0 +1,4 @@
+﻿ID,角色名字,控制器,休闲动作,移动动作,攻击动作
+uint,string,uint,uint,uint,uint
+#id,^name,controller,idle,move,attack
+1,步兵,0,100,300,400
